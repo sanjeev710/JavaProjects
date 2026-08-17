@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/GradeCalculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuessingNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ATMSimulator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TextAnalyzer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
